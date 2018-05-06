@@ -11,7 +11,8 @@ body{
     border-color: #dddddd;
     width: 960px;
     border-color: #dddddd;
-    /* margin-left: 245px; */
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom: 20px;
 
 }
@@ -59,7 +60,7 @@ p{
 
 .menu{
     margin-top: 10px;
-    margin-right: 300px;
+    margin-right: 250px;
 
 }
 
@@ -74,14 +75,16 @@ p{
     text-align: center;
     color: #777777;
     border-top: solid 6px #4aaaa5 ;
+
 }
 
 form{
     margin-top: 30px;
     margin-left: 15px;
+    margin-right: 15px;
 }
 
-.hover:hover {
+ a:hover {
     background-color: #4aaaa5;
   }
 
